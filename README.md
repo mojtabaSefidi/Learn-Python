@@ -1,2 +1,2 @@
 # Learn-Python
-Learning different concepts in python
+Learning different concepts in Python
